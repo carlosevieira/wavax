@@ -1,2 +1,2 @@
 # wavax
-Web Application Vulnerability and eXploitation
+Web Application Vulnerability And eXploitation
